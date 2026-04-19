@@ -38,9 +38,9 @@ export const CHAT_MODEL_NAME_KIMI_K2_THINKING_TURBO = 'kimi-k2-thinking-turbo';
 export const CHAT_MODEL_NAME_GLM_5_1 = 'glm-5.1';
 export const CHAT_MODEL_NAME_GLM_4_7 = 'glm-4.7';
 
-export const CHAT_MODEL_ICON_CHATGPT = 'https://i.postimg.cc/bwdCGNgV/Gemini-Generated-Image-hqfvgohqfvgohqfv.png';
+export const CHAT_MODEL_ICON_CHATGPT = 'https://i.postimg.cc/SQdJH49Z/photo-5992555847508233266-y.jpg';
 export const CHAT_MODEL_ICON_GROK = 'https://i.postimg.cc/sgFQWT4F/Gemini-Generated-Image-fjlo35fjlo35fjlo.png';
-export const CHAT_MODEL_ICON_DEEPSEEK = 'https://i.postimg.cc/KcBR2PyY/Gemini-Generated-Image-le2hmole2hmole2h.png';
+export const CHAT_MODEL_ICON_DEEPSEEK = 'https://i.postimg.cc/bwdCGNgV/Gemini-Generated-Image-hqfvgohqfvgohqfv.png';
 export const CHAT_MODEL_ICON_GEMINI = 'https://i.postimg.cc/kM1h7bFV/Gemini-Generated-Image-1ryo041ryo041ryo.png';
 export const CHAT_MODEL_ICON_CLAUDE = 'https://cdn.acedata.cloud/8fnw4v.jpg';
 export const CHAT_MODEL_ICON_KIMI = 'https://cdn.acedata.cloud/57ebgy.png';
